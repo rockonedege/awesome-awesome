@@ -13,11 +13,13 @@ https://github.com/binhnguyennus/awesome-scalability
 https://github.com/awesome-selfhosted/awesome-selfhosted
 https://github.com/jobbole/awesome-python-cn
 https://github.com/bayandin/awesome-awesomeness
+https://github.com/facert/awesome-spider
+
 """
 
 def to_list(entries):
     items = []
-    for e in entries.split('\n'):
+    for e in set(entries.split('\n')):
         if e:
             title = e.rsplit('/')[-1].capitalize()
             items.append(f'- [{title}]({e})')
@@ -35,6 +37,7 @@ An Awesome-* lists of **personal** interests.
 
     readme = Path(__file__).absolute().parent/'README.md'
     readme.write_text(text, encoding='utf-8')
+    print('Done.')
 
 if __name__ == "__main__":
     main()
