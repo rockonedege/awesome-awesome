@@ -7,6 +7,7 @@ https://github.com/Hack-with-Github/Awesome-Hacking
 https://github.com/wasabeef/awesome-android-ui
 https://github.com/sindresorhus/awesome-nodejs
 https://github.com/fffaraz/awesome-cpp
+https://github.com/rigtorp/awesome-modern-cpp
 https://github.com/justjavac/awesome-wechat-weapp
 https://github.com/sorrycc/awesome-javascript
 https://github.com/binhnguyennus/awesome-scalability
