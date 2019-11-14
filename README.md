@@ -1,6 +1,6 @@
 
 # awesome-awesome
-An Awesome-* lists of **personal** interests.
+An Awesome-* list of **personal** interests.
 
 - [Awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 - [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
