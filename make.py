@@ -15,6 +15,7 @@ https://github.com/awesome-selfhosted/awesome-selfhosted
 https://github.com/jobbole/awesome-python-cn
 https://github.com/bayandin/awesome-awesomeness
 https://github.com/facert/awesome-spider
+https://github.com/fenbf/AwesomePerfCpp
 
 """
 
